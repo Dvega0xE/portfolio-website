@@ -11,7 +11,7 @@ export default [
 		title: 'A Curious Engineer',
 		duration: 'X years',
 		details:
-			"While seeking employment, I take time to practice and strengthen my programming skills and critical analysis. Some of my recent curiosity has led me into Cyber Security and Cloud Architecture, but I still remain in love with backend development with C++.",
+			"While seeking employment, I take time to practice and strengthen my programming skills and critical analysis. Some of my recent curiosity has led me into Cyber Security and Game Development, but I still remain in love with backend development.",
 	},
 	{
 		year: '2022',
